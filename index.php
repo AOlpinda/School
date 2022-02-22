@@ -35,7 +35,7 @@
 </tr>
 <tr>
 	<td bgcolor="#EEB609"><center> CLE PERFORMANCE TASK</td>
-	<td bgcolor=”#EEB609”> <a href= CLE PT.pdf><center> CLICK HERE! </a>
+	<td bgcolor=”#EEB609”> <HREF= CLE PT.pdf><center> CLICK HERE! </a>
 
 </tr>
 <tr>
