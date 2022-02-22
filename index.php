@@ -35,7 +35,7 @@
 </tr>
 <tr>
 	<td bgcolor="#EEB609"><center> CLE PERFORMANCE TASK</td>
-	<td bgcolor=”#EEB609”> <a href="file:///C:/Users/Asus/Downloads/Major%20Performance%20task%20collaboration/CLE%20PT.pdf"><center> CLICK HERE! </a>
+	<td bgcolor=”#EEB609”> <a href="CLE PT.hmtl"><center> CLICK HERE! </a>
 
 </tr>
 <tr>
