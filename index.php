@@ -31,7 +31,7 @@
 </tr>
 <tr>
 	<td bgcolor="#EEB609"><center> CAE PERFORMANCE TASK</td>
-           <td bgcolor="#EEB609"> <a href= (put link) ><center> CLICK HERE! </a>
+           <td bgcolor="#EEB609"> <a href="CAE CRITIQUE PAPER.pdf"><center> CLICK HERE! </a>
 </tr>
 <tr>
 	<td bgcolor="#EEB609"><center> CLE PERFORMANCE TASK</td>
